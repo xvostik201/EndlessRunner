@@ -1,0 +1,407 @@
+fileFormatVersion: 2
+guid: 993857faba261054b8ae74d45f2621b8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014pink game button pack_6039724_0"
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 819
+        width: 271
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd6ede1564567843a4ff1ccb64b196d
+      internalID: 501868094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014pink game button pack_6039724_2"
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 816
+        width: 271
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f428fba49e58ce846a883e7d7c10a253
+      internalID: -975035085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014pink game button pack_6039724_4"
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 816
+        width: 271
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47958a8b4917cd4baaaa43b71d2136e
+      internalID: -965984431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014pink game button pack_6039724_26"
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 476
+        width: 272
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a42cda3e27cd254a9101c2b0c5ebc0f
+      internalID: -1025448743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014pink game button pack_6039724_27"
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 476
+        width: 271
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d5e73d8d8716341bd8ab12975d7145
+      internalID: -1260929777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014pink game button pack_6039724_29"
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 476
+        width: 271
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637abb500b40b8d4eafc5e95fca97ac4
+      internalID: -1080506377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014pink game button pack_6039724_45"
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 126
+        width: 272
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3355321903ba2c844afa760caf45b310
+      internalID: -1812973271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014pink game button pack_6039724_47"
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 126
+        width: 274
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3be84cfe381714585d99ef6dd90795
+      internalID: -616181289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014pink game button pack_6039724_48"
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 130
+        width: 271
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be1e6af58eed5849aae643b9e4bea45
+      internalID: 2093737867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7da2f116f9cac824c804d85385be9c70
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "\u2014Pngtree\u2014pink game button pack_6039724_0": 501868094
+      "\u2014Pngtree\u2014pink game button pack_6039724_1": -847369595
+      "\u2014Pngtree\u2014pink game button pack_6039724_10": -540584134
+      "\u2014Pngtree\u2014pink game button pack_6039724_11": 2077913510
+      "\u2014Pngtree\u2014pink game button pack_6039724_12": -1201682124
+      "\u2014Pngtree\u2014pink game button pack_6039724_13": -1614527515
+      "\u2014Pngtree\u2014pink game button pack_6039724_14": -730257661
+      "\u2014Pngtree\u2014pink game button pack_6039724_15": 1578679190
+      "\u2014Pngtree\u2014pink game button pack_6039724_16": -1123483458
+      "\u2014Pngtree\u2014pink game button pack_6039724_17": 111436720
+      "\u2014Pngtree\u2014pink game button pack_6039724_18": 1501580687
+      "\u2014Pngtree\u2014pink game button pack_6039724_19": -2143338715
+      "\u2014Pngtree\u2014pink game button pack_6039724_2": -975035085
+      "\u2014Pngtree\u2014pink game button pack_6039724_20": 1460700871
+      "\u2014Pngtree\u2014pink game button pack_6039724_21": 1585151527
+      "\u2014Pngtree\u2014pink game button pack_6039724_22": 885221171
+      "\u2014Pngtree\u2014pink game button pack_6039724_23": 2061048211
+      "\u2014Pngtree\u2014pink game button pack_6039724_24": 956466115
+      "\u2014Pngtree\u2014pink game button pack_6039724_25": 1585217940
+      "\u2014Pngtree\u2014pink game button pack_6039724_26": -1025448743
+      "\u2014Pngtree\u2014pink game button pack_6039724_27": -1260929777
+      "\u2014Pngtree\u2014pink game button pack_6039724_28": -1709232104
+      "\u2014Pngtree\u2014pink game button pack_6039724_29": -1080506377
+      "\u2014Pngtree\u2014pink game button pack_6039724_3": -1395782091
+      "\u2014Pngtree\u2014pink game button pack_6039724_30": -1843231098
+      "\u2014Pngtree\u2014pink game button pack_6039724_31": -1279289353
+      "\u2014Pngtree\u2014pink game button pack_6039724_32": 371171665
+      "\u2014Pngtree\u2014pink game button pack_6039724_33": -868199164
+      "\u2014Pngtree\u2014pink game button pack_6039724_34": 1516908559
+      "\u2014Pngtree\u2014pink game button pack_6039724_35": -1774109319
+      "\u2014Pngtree\u2014pink game button pack_6039724_36": -555655533
+      "\u2014Pngtree\u2014pink game button pack_6039724_37": -475133621
+      "\u2014Pngtree\u2014pink game button pack_6039724_38": -1191423235
+      "\u2014Pngtree\u2014pink game button pack_6039724_39": -803618400
+      "\u2014Pngtree\u2014pink game button pack_6039724_4": -965984431
+      "\u2014Pngtree\u2014pink game button pack_6039724_40": 1618336330
+      "\u2014Pngtree\u2014pink game button pack_6039724_41": -477503785
+      "\u2014Pngtree\u2014pink game button pack_6039724_42": -1973687331
+      "\u2014Pngtree\u2014pink game button pack_6039724_43": 261282569
+      "\u2014Pngtree\u2014pink game button pack_6039724_44": 908517484
+      "\u2014Pngtree\u2014pink game button pack_6039724_45": -1812973271
+      "\u2014Pngtree\u2014pink game button pack_6039724_46": 1027065089
+      "\u2014Pngtree\u2014pink game button pack_6039724_47": -616181289
+      "\u2014Pngtree\u2014pink game button pack_6039724_48": 2093737867
+      "\u2014Pngtree\u2014pink game button pack_6039724_49": 1320444902
+      "\u2014Pngtree\u2014pink game button pack_6039724_5": 1294427412
+      "\u2014Pngtree\u2014pink game button pack_6039724_50": 845158782
+      "\u2014Pngtree\u2014pink game button pack_6039724_51": 1845359592
+      "\u2014Pngtree\u2014pink game button pack_6039724_52": 2046236282
+      "\u2014Pngtree\u2014pink game button pack_6039724_53": -706754920
+      "\u2014Pngtree\u2014pink game button pack_6039724_54": -374663663
+      "\u2014Pngtree\u2014pink game button pack_6039724_55": -148564095
+      "\u2014Pngtree\u2014pink game button pack_6039724_56": 966530339
+      "\u2014Pngtree\u2014pink game button pack_6039724_57": -2103668150
+      "\u2014Pngtree\u2014pink game button pack_6039724_58": -1810718092
+      "\u2014Pngtree\u2014pink game button pack_6039724_59": -943523760
+      "\u2014Pngtree\u2014pink game button pack_6039724_6": 1877066879
+      "\u2014Pngtree\u2014pink game button pack_6039724_60": -777309350
+      "\u2014Pngtree\u2014pink game button pack_6039724_61": -1437983780
+      "\u2014Pngtree\u2014pink game button pack_6039724_62": 1623610652
+      "\u2014Pngtree\u2014pink game button pack_6039724_63": -743550771
+      "\u2014Pngtree\u2014pink game button pack_6039724_64": -1793573929
+      "\u2014Pngtree\u2014pink game button pack_6039724_7": 1332712769
+      "\u2014Pngtree\u2014pink game button pack_6039724_8": -1203686296
+      "\u2014Pngtree\u2014pink game button pack_6039724_9": 92632233
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
